@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="Shazan (Mohammad Taha), full-stack developer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1117"/><stop offset=".45" stop-color="#3b1f6e"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+<style>
+.t{font:800 58px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:-1px}
+.d{font:600 18px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#e6edf3}
+.f{opacity:0;animation:f 1s ease-out forwards}.d.f{animation-delay:.4s}
+@keyframes f{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.w{animation:w 9s ease-in-out infinite alternate}
+@keyframes w{to{transform:translateX(-50px)}}
+@media (prefers-reduced-motion:reduce){.f,.w{animation:none;opacity:1}}
+</style>
+<clipPath id="c"><path d="M0 0H400V146Q300 194 200 154T0 146Z"/></clipPath>
+<g clip-path="url(#c)"><rect width="400" height="180" fill="url(#g)"/>
+<path class="w" d="M0 128Q120 94 240 124T500 116V180H0Z" fill="#fff" opacity=".07"/></g>
+<text class="t f" x="50%" y="88" text-anchor="middle">Shazan</text>
+<text class="d f" x="50%" y="122" text-anchor="middle">Mohammad Taha · Full-Stack Developer</text>
+</svg>

@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,45:3b1f6e,100:a371f7&text=Shazan&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Mohammad%20Taha%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Shazan (Mohammad Taha), full-stack developer" />
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/banner-mobile.svg" />
+  <img src="./assets/banner.svg" width="100%" alt="Shazan (Mohammad Taha), full-stack developer" />
+</picture>
 
 <a href="https://mohammad-taha-portfolio.pages.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=440&height=44&lines=Full-stack+developer;TypeScript+%2B+Python;Next.js+%C2%B7+FastAPI+%C2%B7+Cloudflare;Co-founder+%40+NAVNA;Open+to+internships" alt="Full-stack developer. TypeScript and Python. Next.js, FastAPI, Cloudflare. Co-founder at NAVNA. Open to internships." />
+  <picture>
+    <source media="(max-width: 767px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=300&height=36&lines=Full-stack+developer;TypeScript+%2B+Python;Next.js+%C2%B7+FastAPI+%C2%B7+Cloudflare;Co-founder+%40+NAVNA;Open+to+internships" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=440&height=44&lines=Full-stack+developer;TypeScript+%2B+Python;Next.js+%C2%B7+FastAPI+%C2%B7+Cloudflare;Co-founder+%40+NAVNA;Open+to+internships" alt="Full-stack developer. TypeScript and Python. Next.js, FastAPI, Cloudflare. Co-founder at NAVNA. Open to internships." />
+  </picture>
 </a>
 
 <p>
@@ -20,9 +26,10 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg" />
+  <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="./assets/terminal-mobile-light.svg" />
+  <source media="(max-width: 767px)" srcset="./assets/terminal-mobile-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
-  <img src="./assets/terminal-dark.svg" width="500" alt="Terminal card. Shazan (Mohammad Taha), full-stack developer. Stack: TypeScript, Python, Next.js, FastAPI, React, Cloudflare Workers, Postgres. CSE at Chandigarh University, co-founder of NAVNA, building Lab-Forge, open to internships." />
+  <img src="./assets/terminal-dark.svg" width="640" alt="Terminal card. Shazan (Mohammad Taha), full-stack developer. Stack: TypeScript, Python, Next.js, FastAPI, React, Cloudflare Workers, Postgres. CSE at Chandigarh University, co-founder of NAVNA, building Lab-Forge, open to internships." />
 </picture>
 
 </div>
