@@ -79,6 +79,14 @@ One rule shows up in everything I build: **the part that guesses is kept apart f
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHZunknown11&bg_color=0d1117&color=c9d1d9&line=a371f7&point=ffffff&area=true&area_color=a371f7&hide_border=true&custom_title=Shazan%27s%20contributions" width="100%" alt="Shazan's contribution graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHZunknown11/SHZunknown11/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHZunknown11/SHZunknown11/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/SHZunknown11/SHZunknown11/output/snake-dark.svg" width="100%" alt="Snake eating Shazan's contribution graph" />
+  </picture>
+</p>
+
 <div align="center">
 
 **Let's build something.** → [LinkedIn](https://www.linkedin.com/in/mohammad-taha11/) · [Portfolio](https://mohammad-taha-portfolio.pages.dev) · [Telegram](https://t.me/SHZunknown11)
