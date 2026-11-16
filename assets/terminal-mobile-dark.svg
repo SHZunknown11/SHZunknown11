@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="363" viewBox="0 0 340 363" role="img" aria-labelledby="t d">
+<title id="t">Shazan (Mohammad Taha), full-stack developer</title>
+<desc id="d">Terminal card: full-stack developer in TypeScript and Python, CSE student at Chandigarh University, co-founder of NAVNA, open to internships.</desc>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,monospace;font-size:15px;white-space:pre}
+.l{opacity:0;animation:in .35s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite;animation-delay:5.90s;opacity:0}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none;opacity:1}}
+.l0{animation-delay:0.40s}.l1{animation-delay:0.90s}.l2{animation-delay:1.40s}.l3{animation-delay:1.90s}.l4{animation-delay:2.40s}.l5{animation-delay:2.90s}.l6{animation-delay:3.40s}.l7{animation-delay:3.90s}.l8{animation-delay:4.40s}.l9{animation-delay:4.90s}.l10{animation-delay:5.40s}
+</style>
+<rect x="1" y="1" width="338" height="361" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 13a12 12 0 0 1 12-12h314a12 12 0 0 1 12 12v21H1z" fill="#161b22"/>
+<line x1="1" y1="34" x2="339" y2="34" stroke="#30363d"/>
+<circle cx="14" cy="17.0" r="6" fill="#ff5f57"/><circle cx="34" cy="17.0" r="6" fill="#febc2e"/><circle cx="54" cy="17.0" r="6" fill="#28c840"/>
+<text x="170.0" y="21.5" text-anchor="middle" fill="#8b949e" style="font-size:13px">shazan — zsh</text>
+<text class="l l0" x="16" y="58"><tspan fill="#7ee787">shazan ~ $ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text class="l l1" x="16" y="83"><tspan fill="#e6edf3">Shazan (Mohammad Taha)</tspan></text>
+<text class="l l2" x="16" y="108"><tspan fill="#e6edf3">full-stack developer</tspan></text>
+<text class="l l3" x="16" y="133"><tspan fill="#7ee787">shazan ~ $ </tspan><tspan fill="#e6edf3">cat stack.txt</tspan></text>
+<text class="l l4" x="16" y="158"><tspan fill="#79c0ff">TypeScript · Python · Next.js</tspan></text>
+<text class="l l5" x="16" y="183"><tspan fill="#79c0ff">FastAPI · React · Cloudflare</tspan></text>
+<text class="l l6" x="16" y="208"><tspan fill="#7ee787">shazan ~ $ </tspan><tspan fill="#e6edf3">./status --now</tspan></text>
+<text class="l l7" x="16" y="233"><tspan fill="#e6edf3">▸ CSE @ Chandigarh University</tspan></text>
+<text class="l l8" x="16" y="258"><tspan fill="#e6edf3">▸ Co-founder @ NAVNA</tspan></text>
+<text class="l l9" x="16" y="283"><tspan fill="#e6edf3">▸ Building Lab-Forge</tspan></text>
+<text class="l l10" x="16" y="308"><tspan fill="#7ee787">✔ open to internships</tspan></text>
+<text class="cur" x="16" y="333"><tspan fill="#7ee787">shazan ~ $ </tspan><tspan fill="#a371f7">█</tspan></text>
+</svg>
